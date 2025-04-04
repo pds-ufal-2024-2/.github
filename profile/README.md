@@ -65,3 +65,4 @@ nicolle.magalhaes@sedciti.al.maceio.gov.br
 - Mateus Barros de Moura Pereira
 - Ghedyvan Vinícius Batista da Silva
 - Rychardsson Gonzaga de Souza
+- João Jacinto de Souza Neto
